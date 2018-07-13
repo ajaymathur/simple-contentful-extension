@@ -1,0 +1,7 @@
+{
+  "name": "simple-contentful-extension",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ajay Narain Mathur <amathur@atlassian.com>",
+  "license": "MIT"
+}

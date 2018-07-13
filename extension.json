@@ -1,0 +1,6 @@
+{
+    "id": "text-field-replacer",
+    "name": "Custom field",
+    "srcdoc": "index.html",
+    "fieldTypes": ["Text"]
+  }
